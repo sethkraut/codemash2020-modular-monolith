@@ -1,0 +1,5 @@
+rootProject.name = 'modular'
+include 'app'
+include 'api'
+include 'domain-ordering'
+include 'service-mail'
